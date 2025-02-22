@@ -40,6 +40,6 @@ This project is open-source under the **MIT License**.
 
 ### 🔗 Connect with Me
 📌 GitHub: [kerolous-samir](https://github.com/kerolous-samir)  
-📌 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/kerolous-samir)  
+📌 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/kerolous-samir-ai)  
 
 🚀 *Transforming Healthcare with AI!* 🎯
